@@ -6,4 +6,7 @@ using System.Threading.Tasks;
 
 namespace MidiBox5.Shared
 {
+    public class MidiboxDocument
+    {
+    }
 }
