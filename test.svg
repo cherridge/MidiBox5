@@ -10,7 +10,7 @@
           color: white;
         }
         .markdown-body img {
-          width:200px;
+          border: red solid 5px;
         }
       </style>
 
