@@ -9,6 +9,9 @@
           background-color: black;
           color: white;
         }
+        .markdown-body img {
+          width:200px;
+        }
       </style>
 
       <div class="container">
